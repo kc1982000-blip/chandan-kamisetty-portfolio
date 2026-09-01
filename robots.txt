@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spontaneous-naiad-c3209f.netlify.app/sitemap.xml
